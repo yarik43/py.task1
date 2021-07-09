@@ -1,5 +1,5 @@
 # Task-1
-![task1](https://github.com/SailorEx/py_task0/raw/master/screen/py_task1.png)
+![task1](![Снимок экрана 2021-07-09 в 22 58 47](https://user-images.githubusercontent.com/87206838/125130198-498f1080-e109-11eb-9ba6-1e49c04cb15c.png))
 
 # Git status:
 
