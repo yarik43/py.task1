@@ -9,6 +9,7 @@
 
 # Git push:
 
-![task1](https://github.com/SailorEx/py_task0/raw/master/screen/task1_gitpushtask1.png)
+![Снимок экрана 2021-07-09 в 22 59 40](https://user-images.githubusercontent.com/87206838/125130293-6deaed00-e109-11eb-8f00-303d0a11e279.png)
+
 
 
